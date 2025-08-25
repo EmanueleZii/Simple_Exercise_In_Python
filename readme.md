@@ -6,8 +6,8 @@ Progetti semplici da Beginner in Python
 
 ## 🚀 Lista Progetti
 - ✅ NameGenerator
-- ✅ Funzione 2
-- ✅ Funzione 3
+- ✅ Tip Calculator
+- ✅ BMI Calculator
 
 ---
 
