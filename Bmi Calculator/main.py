@@ -16,7 +16,6 @@ bmi = weight / (height ** 2)
 35.00 - 40.00 Obesità di II classe
 >40.00 Obesità di III classe
 '''
-print(bmi)
 if bmi<16.00:
     print("Grave magrezza")
 if bmi>=16.00 and bmi <= 16.99:
