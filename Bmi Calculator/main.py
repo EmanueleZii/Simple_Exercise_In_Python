@@ -4,7 +4,7 @@ weight = float(input("Give me your weight"))
 
 # Write your code here.
 # Calculate the bmi using weight and height.
-bmi = weight / 1.65 ** 2
+bmi = weight / (height ** 2)
 
 '''
 <16.00  Grave magrezza
