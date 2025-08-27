@@ -1,13 +1,17 @@
-# 📌 Progetti Semplici In Python
+# 📌 Esercizi Semplici In Python
 
-Progetti semplici da Beginner in Python
+Esercizi semplici da Beginner in Python
 
 ---
 
-## 🚀 Lista Progetti
-- ✅ NameGenerator
-- ✅ Tip Calculator
-- ✅ BMI Calculator
+## 🚀 Lista Esercizi
+-  NameGenerator
+-  Tip Calculator
+-  BMI Calculator
+-  CheckEvenNumber
+-  Rollercoaster
+-  PriceOrderPizza
+-  TreasureIsland
 
 ---
 
