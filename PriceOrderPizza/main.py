@@ -1,6 +1,6 @@
 print("Benvenuto nel programma di ordinazione della pizza!")
 size = input("Quale dimensione di pizza desideri? (piccola/media/grande) ")
-pepperoni = input("Vuoi aggiungere pepperoni? (si/no) ")
+pepperoni = input("Vuoi aggiungere pepperoni? (si/no)")
 extra_cheese = input("Vuoi aggiungere formaggio extra? (si/no) ")
 
 bill = 0
