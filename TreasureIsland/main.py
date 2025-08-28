@@ -1,4 +1,4 @@
-Treasure= '''
+Treasure = '''
 *******************************************************************************
           |                   |                  |                     |
  _________|________________.=""_;=.______________|_____________________|_______
@@ -20,7 +20,6 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/[TomekK]
 *******************************************************************************
 
-
 '''
 
 print(Treasure)
@@ -36,7 +35,7 @@ elif answer == "right":
     if input("Do you want to swim or wait? Type 'swim' or 'wait'") == "swim":
         print("GameOver you were attacked by a trout.")
     else:
-        print("You waited and found a three Door!")
+        print("You waited and found a two Door!")
         if input("Do you want to open the door or go back? Type 'open' or 'back'") == "open":
             print("Congratulations! You found the treasure!")
         else:
