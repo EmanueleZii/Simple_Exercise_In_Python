@@ -12,6 +12,7 @@ Esercizi semplici da Beginner in Python
 -  Rollercoaster
 -  PriceOrderPizza
 -  TreasureIsland
+-  RockPapperScissor
 
 ---
 
