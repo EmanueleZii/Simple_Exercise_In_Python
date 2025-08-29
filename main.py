@@ -1,17 +1,16 @@
-import random
+#import random
 
-fruit = ["apple", "banana", "cherry", "date"]
+arr = [1,2,3,44,77,100,56,89,98,45,109,234,456,567]
 
-state =["Lazio", "Milano", "Reggio Calabria" ]
+def max(arr):
+    max = 0
+    for i in range(len(arr)):
+        if arr[i] > max:
+            max = arr[i]
+    return max
 
-state[1] = "Sicilia"
- 
 def main():
-    print(random.choice(fruit))
-    print(state[1])
-
-    for f in fruit:
-        print(f)
+    print("Il valore massimo è:", max(arr))
 
 if __name__ == "__main__":
     main()
