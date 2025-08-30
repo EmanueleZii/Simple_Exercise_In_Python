@@ -6,7 +6,6 @@ word_list = ["python", "java", "javascript", "csharp", "ruby"]
 
 def choose_word():
     word = random.choice(word_list)
-    # print("Random word chosen:", word)  # Puoi togliere questo per non mostrare la parola
     return word
 
 chosen_word = choose_word()
