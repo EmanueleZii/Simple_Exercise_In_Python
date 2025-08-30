@@ -13,6 +13,7 @@ Esercizi semplici da Beginner in Python
 -  PriceOrderPizza
 -  TreasureIsland
 -  RockPapperScissor
+-  HangMan
 
 ---
 
