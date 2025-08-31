@@ -16,8 +16,6 @@ while True:
     for letter in chosen_word:
         if letter in guessed_letters:
             display += letter
-        else:
-            display += "_"
     print("Current word:", display)
 
     if display == chosen_word:
