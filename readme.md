@@ -15,6 +15,7 @@ Esercizi semplici da Beginner in Python
 -  RockPapperScissor
 -  HangMan
 -  CesarCipher
+-  BlindAuction
 
 ---
 
