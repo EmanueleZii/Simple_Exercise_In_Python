@@ -10,10 +10,10 @@ def subtraction(num1, num2):
 def division(num1, num2):
     return print(f"{num1 / num2}")
 
-def Moltiply(num1, num2):
+def multiply(num1, num2):
     return print(f"{num1 * num2}")
 
-def Modulo(num1, num2):
+def modulo(num1, num2):
     return print(f"{num1 % num2}")
 
 while True:
@@ -28,23 +28,12 @@ while True:
     if (choose == 3):
         division(num1, num2)
     if (choose == 4):
-        Moltiply(num1, num2)
+        multiply(num1, num2)
     if (choose == 5):
-        Modulo(num1, num2)
+        modulo(num1, num2)
     continua = str(input("Do you want continue? Type 'yes' or 'no' ")).lower()
     if continua == 'no':
         break
     else:
         continue
     
-    
-
-
-
-
-
-
-
-
-
-
