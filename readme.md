@@ -16,7 +16,7 @@ Esercizi semplici da Beginner in Python
 -  HangMan
 -  CesarCipher
 -  BlindAuction
-
+-  CalculatorProject
 ---
 
 ## 🛠️ Tecnologie utilizzate

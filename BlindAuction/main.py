@@ -30,17 +30,3 @@ print(f"\nThe winner is {winner} with a bid of {dict[winner]}!")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
