@@ -17,6 +17,9 @@ Esercizi semplici da Beginner in Python
 -  CesarCipher
 -  BlindAuction
 -  CalculatorProject
+-  Gestionale Clienti Articoli e Admin
+-  Login
+
 ---
 
 ## 🛠️ Tecnologie utilizzate
