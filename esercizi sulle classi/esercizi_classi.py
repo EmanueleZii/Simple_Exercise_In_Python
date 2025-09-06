@@ -1,3 +1,9 @@
+
+'''Esercizi sulle classi in Python
+Creare una classe ContoBancario che incapsula le informazioni di un conto e
+fornisce metodi per gestire il saldo in modo sicuro. L'obiettivo è utilizzare
+l'incapsulamento per prevenire accessi non autorizzati o modifiche inappropriate al saldo del conto. '''
+
 class ContoBancario:
     def __init__(self, nome_titolare, saldo_iniziale=0):
         self.nome_titolare = nome_titolare
@@ -24,4 +30,3 @@ class ContoBancario:
         print(f"Saldo attuale: {self.saldo}")
 
 
-        
