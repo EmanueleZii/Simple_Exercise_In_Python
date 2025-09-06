@@ -1,6 +1,5 @@
 
 
-
 # Main function
 def main():
     print("Hello, World!")
