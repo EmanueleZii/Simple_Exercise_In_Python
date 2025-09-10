@@ -1,6 +1,6 @@
-# 📌 Esercizi Semplici In Python
+# 📌 Esercizi Semplici In Python e Esempi
 
-Esercizi semplici da Beginner in Python
+Esercizi semplici da Beginner in Python e esempi
 
 ---
 
@@ -20,6 +20,15 @@ Esercizi semplici da Beginner in Python
 -  Gestionale Clienti Articoli e Admin
 -  Login
 
+---
+## 🚀 Lista Di Esempi
+
+-  Classi
+-  Ereditarieta (anche multipla)
+-  Polimorfismo
+-  LampdaFunction
+-  IO (File stream)
+-  Override
 ---
 
 ## 🛠️ Tecnologie utilizzate
